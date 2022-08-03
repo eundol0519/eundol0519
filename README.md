@@ -24,7 +24,7 @@
 
 ## Notion / TStory
 
-<img src="https://avatars.githubusercontent.com/u/72530436?v=4?scode=mtistory2&fname=https%3A%2F%2Ftistory4.daumcdn.net%2Ftistory%2F5007526%2Fattach%2Faae062df5efe471ca4bc1bc7a2d7e408" width="15px"/> : https://eundol1113.tistory.com/
+<img src="https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory4.daumcdn.net%2Ftistory%2F5007526%2Fattach%2F5a79e3379cd849fbb49972d1c4638209" width="15px"/> : https://eundol1113.tistory.com/
 <br/>
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png" width="15px"/> : https://chrome-armadillo-b80.notion.site/f85caa16cc1d4d2bbe6a186b99b32d53
 

@@ -1,21 +1,21 @@
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hyein!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+ -->
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=eundol0519) -->
+<!-- 
+![github header](https://user-images.githubusercontent.com/46434694/153376923-2b00e21f-da3c-445d-ac93-d08bbdad75b8.png) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
-
-
-### 👋 비 오는 날 개구리
+<p align="center">
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fca97mf%2FbtrKIsFlLVD%2FpMIQWWC4g0RugCDbANzdT0%2Fimg.png" width="200px"/>
+</p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaeeon-kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=total+&edge_flat=false)](https://hits.seeyoufarm.com)![Githubfollower](https://img.shields.io/github/followers/eundol0519?style=social)
+<h3 align="center">👋 It's me! 👋</h3>
+<p align="center">
+  <b>Front-end Developer</b> 👩‍💻 <br>
+  <b>도전적인 / 문제를 해결하는 / 성장을 갈망하는</b> 🌿
+</p>
 
-## About Me
-도전적인 / 문제를 해결하는 / 성장을 갈망하는
-<br>
-<br>
-
-## Skills(Languages & Tools)
-
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -23,15 +23,22 @@
 <img src="https://img.shields.io/badge/Next.js-000080?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white"/></a>
 <!-- <img src="https://img.shields.io/badge/Zustand-pink?style=flat-square&logo=Git&logoColor=black"/></a> -->
-<br>
-<br>
+</p>
 
-## Notion / TStory
+<h3 align="center">🌈 Follow Me 🌈</h3>
+<p align="center">
+  <a href="https://eundol1113.tistory.com/"><img src="https://img.shields.io/badge/eundol1113-5FCA8B?style=flat-square&logo=tistory&logoColor=white"/></a>&nbsp
+  <a href="https://www.notion.so/f85caa16cc1d4d2bbe6a186b99b32d53"><img src="https://img.shields.io/badge/Frog-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+</p>
 
-<img src="https://avatars.githubusercontent.com/u/72530436?s=40&v=4" width="15px"/> : https://eundol1113.tistory.com/
-<br/>
-<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png" width="15px"/> : https://chrome-armadillo-b80.notion.site/f85caa16cc1d4d2bbe6a186b99b32d53
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+ 
+   <a href="https://github.com/eundol0519"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaeeon-kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=total+&edge_flat=false;%align=center)](https://hits.seeyoufarm.com)![Githubfollower](https://img.shields.io/github/followers/eundol0519?style=social)
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eundol0519&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=eundol0519) -->
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eundol0519&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
+</div>

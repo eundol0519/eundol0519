@@ -3,13 +3,17 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
+
 ### 👋 비 오는 날 개구리
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fca97mf%2FbtrKIsFlLVD%2FpMIQWWC4g0RugCDbANzdT0%2Fimg.png" width="200px"/>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaeeon-kim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=total+&edge_flat=false)](https://hits.seeyoufarm.com)![Githubfollower](https://img.shields.io/github/followers/eundol0519?style=social)
 
 ## About Me
-🐸 도전적인 / 문제를 해결하는 / 성장을 갈망하는
+도전적인 / 문제를 해결하는 / 성장을 갈망하는
 <br>
 <br>
+
 ## Skills(Languages & Tools)
 
 <img src="https://img.shields.io/badge/HTML5-34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -24,7 +28,7 @@
 
 ## Notion / TStory
 
-<img src="https://img1.daumcdn.net/thumb/C428x428/?scode=mtistory2&fname=https%3A%2F%2Ftistory4.daumcdn.net%2Ftistory%2F5007526%2Fattach%2F5a79e3379cd849fbb49972d1c4638209" width="15px"/> : https://eundol1113.tistory.com/
+<img src="https://avatars.githubusercontent.com/u/72530436?s=40&v=4" width="15px"/> : https://eundol1113.tistory.com/
 <br/>
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png" width="15px"/> : https://chrome-armadillo-b80.notion.site/f85caa16cc1d4d2bbe6a186b99b32d53
 

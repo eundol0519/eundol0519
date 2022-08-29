@@ -14,7 +14,8 @@
   <b>도전적인 / 문제를 해결하는 / 성장을 갈망하는</b> 🌿
 </p>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<!-- 📚 Tech Stack 📚 -->
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>

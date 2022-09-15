@@ -39,7 +39,7 @@
    
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feundol0519%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eundol0519&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/eundol0519)
+[![Eundol0519's GitHub stats](https://github-readme-stats.vercel.app/api?username=eundol0519&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/eundol0519)
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eundol0519&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
 </div>

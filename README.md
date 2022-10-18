@@ -32,7 +32,7 @@
   <a href="https://www.notion.so/f85caa16cc1d4d2bbe6a186b99b32d53"><img src="https://img.shields.io/badge/Frog-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 </p>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="center">👩‍💻 My Github Status 👩‍💻</h3>
 <div align="center">
  
    <a href="https://github.com/eundol0519"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feundol0519&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>

@@ -24,7 +24,10 @@
 <br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Next.js-000080?style=flat-square&logo=Next.js&logoColor=white"/></a>
+<br/>
 <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-gray?style=flat-square&logo=Notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-cd2523?style=flat-square&logo=Slack&logoColor=white"/></a>
 <!-- <br/><br/> -->
 <!-- <img src="https://img.shields.io/badge/Zustand-pink?style=flat-square&logo=Zustand&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/styledComponents-yellow?style=flat-square&logo=styledComponents&logoColor=black"/></a>

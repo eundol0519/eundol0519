@@ -52,6 +52,6 @@
  
 [![Eundol0519's GitHub stats](https://github-readme-stats.vercel.app/api?username=eundol0519&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/eundol0519)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eundol0519&theme=white)](https://github.com/eundol0519/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eundol0519&theme=white)](https://github.com/eundol0519/github-readme-stats) -->
 
 </div>

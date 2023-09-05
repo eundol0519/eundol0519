@@ -5,7 +5,7 @@
 ![github header](https://user-images.githubusercontent.com/46434694/153376923-2b00e21f-da3c-445d-ac93-d08bbdad75b8.png) -->
 
 <p align="center">
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fca97mf%2FbtrKIsFlLVD%2FpMIQWWC4g0RugCDbANzdT0%2Fimg.png" width="200px"/>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdoR7Cm%2Fbtss856Oxxk%2FMK5dTbdK4vcHcU6OpkOb70%2Fimg.png" width="200px"/>
 </p>
 
 <h3 align="center">👋 It's me! 👋</h3>

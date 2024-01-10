@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Next.js-000080?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/></a>
 <!-- <img src="https://img.shields.io/badge/Sass-pink?style=flat-square&logo=Sass&logoColor=white"/></a> -->
-<img src="https://img.shields.io/badge/React Query-cd2523?style=flat-square&logo=ReactQuery&logoColor=white"/></a>
+<!-- <img src="https://img.shields.io/badge/React Query-cd2523?style=flat-square&logo=ReactQuery&logoColor=white"/></a> -->
 <br/>
 <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-gray?style=flat-square&logo=Notion&logoColor=white"/></a>

@@ -42,7 +42,7 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://eundol1113.tistory.com/"><img src="https://img.shields.io/badge/eundol1113-5FCA8B?style=flat-square&logo=tistory&logoColor=white"/></a>&nbsp
-  <a href="https://www.notion.so/f85caa16cc1d4d2bbe6a186b99b32d53"><img src="https://img.shields.io/badge/Frog-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+  <a href="https://chrome-armadillo-b80.notion.site/6ee1e6ccaa3340cdb20aeeb802f9c96b?pvs=4"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 </p>
 <h3 align="center">👩‍💻 My Github Status 👩‍💻</h3>
 <div align="center">

@@ -11,7 +11,9 @@
 <h3 align="center">👋 It's me! 👋</h3>
 <p align="center">
   <b>Front-end Developer</b> 👩‍💻 <br>
-  <b>도전적인 / 문제를 해결하는 / 성장을 갈망하는</b> 🌿
+  <div align="center">
+    <p>✍️ 기술 블로그 운영 | 🧩 새로운 기술에 빠르게 적응 | 🏃 꾸준함</li>
+  </div>
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -42,7 +44,6 @@
   <a href="https://eundol1113.tistory.com/"><img src="https://img.shields.io/badge/eundol1113-5FCA8B?style=flat-square&logo=tistory&logoColor=white"/></a>&nbsp
   <a href="https://www.notion.so/f85caa16cc1d4d2bbe6a186b99b32d53"><img src="https://img.shields.io/badge/Frog-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 </p>
-
 <h3 align="center">👩‍💻 My Github Status 👩‍💻</h3>
 <div align="center">
  

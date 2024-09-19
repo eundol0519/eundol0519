@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Eunhui!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
-
-<!-- 
+<!--
 ![github header](https://user-images.githubusercontent.com/46434694/153376923-2b00e21f-da3c-445d-ac93-d08bbdad75b8.png) -->
 
 <p align="center">
@@ -55,5 +54,7 @@
 <!-- [![Eundol0519's GitHub stats](https://github-readme-stats.vercel.app/api?username=eundol0519&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/eundol0519) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eundol0519&theme=white)](https://github.com/eundol0519/github-readme-stats) -->
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>

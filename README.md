@@ -4,7 +4,7 @@
 ![github header](https://user-images.githubusercontent.com/46434694/153376923-2b00e21f-da3c-445d-ac93-d08bbdad75b8.png) -->
 
 <p align="center">
-<img src="https://file.notion.so/f/f/1eec11c7-0781-4865-8b4a-24bc588d11be/e0fa3f1b-8368-4186-af34-356ae629eabe/68747470733a2f2f6368726f6d652d61726d6164696c6c6f2d6238302e6e6f74696f6e2e736974652f696d6167652f687474707325334125324625324670726f642d66696c65732d7365637572652e73332e75732d776573742d322e616d617a6f6e6177732e636f6d253.avif?table=block&id=10c929d2-b9c7-80d3-b2f9-df0cf53133c4&spaceId=1eec11c7-0781-4865-8b4a-24bc588d11be&expirationTimestamp=1727762400000&signature=yJFvu7rGdKCK7mPLdVE4pf8I6gowB94k8-umlwZqUfI" width="400px"/>
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbMDRMP%2FbtsJWubveND%2F0NCEYNIF4ON46X0KngCbCk%2Ftfile.png" width="400px"/>
 </p>
 
 <!-- https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdoR7Cm%2Fbtss856Oxxk%2FMK5dTbdK4vcHcU6OpkOb70%2Fimg.png -->
